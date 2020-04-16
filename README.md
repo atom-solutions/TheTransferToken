@@ -9,7 +9,7 @@
 |Decimal places: | `18` |
 |Total supply: | `2,000,000,000` |
 
-TTT refers to a token that can be bi-directionally exchanged with Eternal Coin (XEC) at 1:1 ratio.
+The Transfer Token (TTT) is an ERC-20 token that uses Proof of Work for validating transactions. TTT can be bi-directionally exchanged with Eternal Coin (XEC) at 1:1 ratio.
 
 Eternal Coin (XEC) can be traded and acquired via authorized exchanges ONLY which leads to the disadvantage that XEC can’t be acquired via ANY unauthorized exchanges throughout the world.
 Therefore, The Transfer Token (TTT) is developed to be listed and tradable with various currencies on global exchanges.
