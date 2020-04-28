@@ -21,7 +21,7 @@ XEC is a centralize coin unlike other coins in the market. Our core idea is to p
 For more details, please view to our official homepage: https://www.atom-solutions.jp/en/
 
 # Documents
-- [TTT Whitepaper](Coming Soon)   
+- [TTT Whitepaper](https://www.atom-solutions.jp/whitepaper/TTT_Whitepaper_ver.1.2_en.pdf)   
 - [XEC Whitepaper](https://www.atom-solutions.jp/whitepaper/XEC_whitepaperver.2.0en.pdf)  
 - [Synergy Effects of XEC & TTT](Coming Soon)  
 - [TTT Twitter](https://twitter.com/AtomOfficialSNS)
