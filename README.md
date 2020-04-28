@@ -39,8 +39,13 @@ Documentation available at [WIKI pages](Coming Soon).
 
 |Day|Description|
 |:---|:---|
-|**13th Apr**|Development Progress Updated. 3% now. [Read more](https://www.atom-solutions.jp/project/)| 
-|**8th, 10th Apr**|Development Progress Updated. 2% now. [Read more](https://www.atom-solutions.jp/project/)| 
+|**27th Apr**|Development Progress Updated. 12% now! Trading UI [Read more](https://www.atom-solutions.jp/project/)| 
+|**24th Apr**|Development Progress Updated. 9% now! E-Counter Page. [Read more](https://www.atom-solutions.jp/en/ecounter/)| 
+|**22nd Apr**|Development Progress Updated. 7% now! Deposit UI. [Read more](https://www.atom-solutions.jp/project/)| 
+|**20th Apr**|Development Progress Updated. 6% now! The Transfer Token (TTT) Whitepaper. [Read more](https://www.atom-solutions.jp/whitepaper/TTT_Whitepaper_ver.1.2_en.pdf)| 
+|**17th Apr**|Development Progress Updated. 5% now! XEC Whitepaper. [Read more](https://www.atom-solutions.jp/whitepaper/lightpaper_EN.pdf)| 
+|**13th Apr**|Development Progress Updated. 3% now! Wallet Transfer UI. [Read more](https://www.atom-solutions.jp/project/)| 
+|**8th, 10th Apr**|Development Progress Updated. 2% now! SignUp/Login UI & Balance UI [Read more](https://www.atom-solutions.jp/project/)| 
 |**7th Apr**|TTT token is now officially listed on DigiFinex! [Read more](https://www.digifinex.com)|  
 |**31st Mar**|Started company official Twitter! [Read more](https://twitter.com/AtomOfficialSNS)|  
 |**30th Mar**|News Released. [Read more](https://www.atom-solutions.jp/en/news/news_200330.php)|  
