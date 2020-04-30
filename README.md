@@ -39,6 +39,7 @@ Documentation available at [WIKI pages](Coming Soon).
 
 |Day|Description|
 |:---|:---|
+|**27th Apr**|Development Progress Updated. 14% now! Exchange UI [Read more](https://www.atom-solutions.jp/project/)| 
 |**27th Apr**|Development Progress Updated. 12% now! Trading UI [Read more](https://www.atom-solutions.jp/project/)| 
 |**24th Apr**|Development Progress Updated. 9% now! E-Counter Page. [Read more](https://www.atom-solutions.jp/en/ecounter/)| 
 |**22nd Apr**|Development Progress Updated. 7% now! Deposit UI. [Read more](https://www.atom-solutions.jp/project/)| 
