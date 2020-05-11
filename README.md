@@ -39,6 +39,7 @@ Documentation available at [WIKI pages](Coming Soon).
 
 |Day|Description|
 |:---|:---|
+|**11th May**|Development Progress Updated. 16% now! Lending Service UI [Read more](https://www.atom-solutions.jp/project/)| 
 |**8th May**|Development Progress Updated. 15% now! Exchange UI [Read more](https://www.atom-solutions.jp/project/)| 
 |**30th Apr**|Development Progress Updated. 14% now! Exchange UI [Read more](https://www.atom-solutions.jp/project/)| 
 |**27th Apr**|Development Progress Updated. 12% now! Trading UI [Read more](https://www.atom-solutions.jp/project/)| 
