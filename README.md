@@ -39,6 +39,7 @@ Documentation available at [WIKI pages](Coming Soon).
 
 |Day|Description|
 |:---|:---|
+|**20th May**|adopting our efforts to United Nations Summit's international goals [SDGs](https://www.atom-solutions.jp/en/sdgs/)| 
 |**17th May**|Development Progress Updated. 17% now! Withdrawal UI [Read more](https://www.atom-solutions.jp/project/)| 
 |**11th May**|Development Progress Updated. 16% now! Lending Service UI [Read more](https://www.atom-solutions.jp/project/)| 
 |**8th May**|Development Progress Updated. 15% now! Exchange UI [Read more](https://www.atom-solutions.jp/project/)| 
