@@ -39,6 +39,7 @@ Documentation available at [WIKI pages](Coming Soon).
 
 |Day|Description|
 |:---|:---|
+|**05th Jun**|Development Progress Updated. 24% now! Development Progress Updated. 24% now! New analysis report is released! [Read more](https://www.atom-solutions.jp/pdf/The_analysis_of_XEC_en.pdf)|
 |**01st Jun**|Development Progress Updated. 20% now! Logics of our world's class Overseas Remittance [Read more](https://www.atom-solutions.jp/pdf/Overseas_remittance_logic_EN.pdf)|
 |**29th May**|Development Progress Updated. 18% now! History UI [Read more](https://www.atom-solutions.jp/project/)|
 |**22nd May**|The Transfer Token (TTT) logo guideline has been released. [TTT Logo Guideline](https://www.atom-solutions.jp/en/logo/TheTransferToken_Logo_Guide_en.pdf)| 
