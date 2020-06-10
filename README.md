@@ -23,7 +23,8 @@ For more details, please view to our official homepage: https://www.atom-solutio
 # Documents
 - [TTT Whitepaper](https://www.atom-solutions.jp/whitepaper/TTT_Whitepaper_ver.1.2_en.pdf)   
 - [XEC Whitepaper](https://www.atom-solutions.jp/whitepaper/lightpaper_EN.pdf)  
-- [Synergy Effects of XEC & TTT](Coming Soon)  
+- [Analysis Report of Eternal Coin](https://www.atom-solutions.jp/pdf/The_analysis_of_XEC_en.pdf)  
+- [Overseas Remittance Logic](https://www.atom-solutions.jp/pdf/Overseas_remittance_logic_EN.pdf)
 - [TTT Twitter](https://twitter.com/AtomOfficialSNS)
 - [XET Bitcointalk and Roadmap](https://bitcointalk.org/index.php?topic=5236953.0)
 - [Atom Solutions News](https://www.atom-solutions.jp/en/news/)  
