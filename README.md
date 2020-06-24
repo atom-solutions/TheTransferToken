@@ -40,6 +40,7 @@ Documentation available at [WIKI pages](Coming Soon).
 
 |Day|Description|
 |:---|:---|
+|**24th Jun**|24th Jun, Development Progress Updated. 40% now! History System and announcing new business partner Bitronics[Read more](https://www.atom-solutions.jp/project/)|
 |**17th Jun**|The Transfer Token (TTT) is now listed on P2PB2B Exchange[Read more](https://p2pb2b.io/trade/TTT_BTC)|
 |**17th Jun**|Development Progress Updated. 36% now! TTT Exchange System and KYC UI Design[Read more](https://www.atom-solutions.jp/project/)|
 |**10th Jun**|Development Progress Updated. 31% now! Withdrawal and Deposit UI, EVOR Design[Read more](https://www.atom-solutions.jp/project/)|
