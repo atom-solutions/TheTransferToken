@@ -40,6 +40,7 @@ Documentation available at [WIKI pages](Coming Soon).
 
 |Day|Description|
 |:---|:---|
+|**15th Jul**|TTT is now available on Lumi Wallet! [Read more](https://www.atom-solutions.jp/en/news/news_200715_2.php)|
 |**14th Jul**|Development Progress Updated. 49% now! Transfer System. [Read more](https://www.atom-solutions.jp/project/)|
 |**01st Jul**|Development Progress Updated. 43% now! Address Bookmark UI design and system. [Read more](https://www.atom-solutions.jp/project/)|
 |**24th Jun**|Development Progress Updated. 40% now! History System and announcing new business partner Bitronics[Read more](https://www.atom-solutions.jp/project/)|
