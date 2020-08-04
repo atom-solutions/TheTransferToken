@@ -40,6 +40,7 @@ Documentation available at [WIKI pages](Coming Soon).
 
 |Day|Description|
 |:---|:---|
+|**04th Aug**|New Investorn on-board! [PGW Estonia OÜ](https://www.atom-solutions.jp/en/news/news_200804.php)|
 |**31st Jul**|Development Progress Updated. 62% now! XEC Login Security Design. [Read more](https://www.atom-solutions.jp/project/)|
 |**30th Jul**|Development Progress Updated. 58% now! XEC Lending System. [Read more](https://www.atom-solutions.jp/project/)|
 |**15th Jul**|TTT is now available on Lumi Wallet! [Read more](https://www.atom-solutions.jp/en/news/news_200715_2.php)|
