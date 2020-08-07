@@ -40,6 +40,7 @@ Documentation available at [WIKI pages](Coming Soon).
 
 |Day|Description|
 |:---|:---|
+|**07th Aug**|Introducing new cash-in methods! Introducing [Paymentwall](https://www.atom-solutions.jp/en/news/news_200807.php)|
 |**04th Aug**|TTT is now officiall listed on Lbank Exchange! [TTT/USDT](https://www.lbank.info/exchange.html#/ttt/usdt)|
 |**04th Aug**|New Investorn on-board! [PGW Estonia OÜ](https://www.atom-solutions.jp/en/news/news_200804.php)|
 |**31st Jul**|Development Progress Updated. 62% now! XEC Login Security Design. [Read more](https://www.atom-solutions.jp/project/)|
