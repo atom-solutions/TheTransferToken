@@ -40,6 +40,7 @@ Documentation available at [WIKI pages](Coming Soon).
 
 |Day|Description|
 |:---|:---|
+|**24th Aug**|Development Progress Updated. 82% now! Lending Dividend System. [Read more](https://www.atom-solutions.jp/project/)|
 |**13th Aug**|Development Progress Updated. 74% now! KYC Verification System. [Read more](https://www.atom-solutions.jp/project/)|
 |**11th Aug**|Development Progress Updated. 72% now! Fiat Currency Exchange System. [Read more](https://www.atom-solutions.jp/project/)|
 |**04th Aug**|TTT is now officiall listed on Lbank Exchange! [TTT/USDT](https://www.lbank.info/exchange.html#/ttt/usdt)|
