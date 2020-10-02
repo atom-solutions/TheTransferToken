@@ -40,6 +40,7 @@ Documentation available at [WIKI pages](Coming Soon).
 
 |Day|Description|
 |:---|:---|
+|**02nd Oct**|TTT is now being listed on Nomics![Read more](https://nomics.com/assets/ttt2-the-transfer-token)|
 |**25th Sep**|Development Progress Updated. 88% now! Order Matching Engine.[Read more](https://www.atom-solutions.jp/project/)|
 |**14th Sep**|Development Progress Updated. 85% now! Order System. [Read more](https://www.atom-solutions.jp/project/)|
 |**24th Aug**|Development Progress Updated. 82% now! Lending Dividend System. [Read more](https://www.atom-solutions.jp/project/)|
