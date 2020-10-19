@@ -36,6 +36,7 @@ Documentation available at [WIKI pages](Coming Soon).
 
 |Day|Description|
 |:---|:---|
+|**19th Oct**|Development Progress Updated. 90% now! Arbitrage Chart Design. Only 10% left![Read more](https://www.atom-solutions.jp/project/)|
 |**15nd Oct**|TTT is now being adopted on Crypto.com! [Read more](https://crypto.com/price/the-transfer-token)|
 |**02nd Oct**|TTT is now being listed on Nomics! [Read more](https://nomics.com/assets/ttt2-the-transfer-token)|
 |**25th Sep**|Development Progress Updated. 88% now! Order Matching Engine.[Read more](https://www.atom-solutions.jp/project/)|
