@@ -36,6 +36,8 @@ Documentation available at [WIKI pages](Coming Soon).
 
 |Day|Description|
 |:---|:---|
+|**25th Nov**|Our first-time sponsorship, backing the San Marino Football Club "S.S. Pennarossa"! [Read more](https://www.atom-solutions.jp/en/news/news_201125.php)|
+|**06th Nov**|Development Progress Updated. 94% now! Trade Socket API. Only 6% left! [Read more](https://www.atom-solutions.jp/project/)| 
 |**06th Nov**|Development Progress Updated. 92% now! Market Trade History Only 8% left! [Read more](https://www.atom-solutions.jp/project/)|
 |**19th Oct**|Development Progress Updated. 90% now! Arbitrage Chart Design. Only 10% left! [Read more](https://www.atom-solutions.jp/project/)|
 |**15nd Oct**|TTT is now being adopted on Crypto.com! [Read more](https://crypto.com/price/the-transfer-token)|
