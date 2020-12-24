@@ -36,6 +36,7 @@ Documentation available at [WIKI pages](Coming Soon).
 
 |Day|Description|
 |:---|:---|
+|**25th Dec**|Merry Christmas and released of new website and upcoming campaign! [Read more](https://bit.ly/2JfioFJ)|
 |**25th Nov**|Our first-time sponsorship, backing the San Marino Football Club "S.S. Pennarossa"! [Read more](https://www.atom-solutions.jp/en/news/news_201125.php)|
 |**06th Nov**|Development Progress Updated. 94% now! Trade Socket API. Only 6% left! [Read more](https://www.atom-solutions.jp/project/)| 
 |**06th Nov**|Development Progress Updated. 92% now! Market Trade History Only 8% left! [Read more](https://www.atom-solutions.jp/project/)|
