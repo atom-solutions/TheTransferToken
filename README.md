@@ -83,4 +83,4 @@ Documentation available at [WIKI pages](Coming Soon).
 
   
 ---
-(c) Atom Solutinos Co., Ltd. All right reserved.
+(c) Atom Solutions Co., Ltd. All right reserved.
