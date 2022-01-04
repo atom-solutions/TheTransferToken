@@ -36,6 +36,17 @@ Documentation available at [WIKI pages](Coming Soon).
 
 |Day|Description|
 |:---|:---|
+|**11th Oct**|MoU signed with Singaporean FinTech startup Bholdus [Read more](https://www.atom-solutions.jp/en/news/news_211011.php)|
+|**03rd Sep**|Registration of Eternal Wallet is now started! And so to the Registration Campaign! [Read more](https://www.atom-solutions.jp/en/news/news_210903.php)|
+|**01st Jun**|TTT is now AVAILABLE on Cointiger Exchange! [Read more](https://www.cointiger.com/en-us/#/trade_center?coin=ttt_usdt)|
+|**24th May**|TTT is now AVAILABLE on LATOKEN Exchange! [Read more](https://latoken.com/exchange/TTT_USDT)|
+|**24th May**|TTT is now AVAILABLE on XT.com Exchange! [Read more](https://www.xt.com/tradePro/ttt_usdt)|
+|**18th May**|TTT Second trading pair on DEX, the Uniswap! [Read more](https://www.atom-solutions.jp/en/news/news_210518.php)|
+|**17th May**|TTT First trading pair on DEX, the Sushiwap! [Read more](https://www.atom-solutions.jp/en/news/news_210517.php)|
+|**14th May**|Release of the Korean version of Atom Solutions Official Homepage. [Read more](https://www.atom-solutions.jp/ko/)|
+|**12th May**|Release of the Chinese version of Atom Solutions Official Homepage. [Read more](https://www.atom-solutions.jp/zh/)|
+|**10th May**|Announce the migration of our issued token, TTT, to a DeFi protocol! [Read more](https://www.atom-solutions.jp/en/news/news_210510.php)|
+|**07th May**|New Start of our E-Counter Service! [Read more](https://www.atom-solutions.jp/ecounter/)|
 |**11th Jan**|Eternal Wallet Demo Version Campaign Started! Campaign Details:[Read more](https://bit.ly/2JfioFJ)|
 |**25th Dec**|Merry Christmas and released of new website and upcoming campaign! [Read more](https://bit.ly/2JfioFJ)|
 |**25th Nov**|Our first-time sponsorship, backing the San Marino Football Club "S.S. Pennarossa"! [Read more](https://www.atom-solutions.jp/en/news/news_201125.php)|
