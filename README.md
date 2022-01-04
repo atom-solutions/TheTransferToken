@@ -36,6 +36,7 @@ Documentation available at [WIKI pages](Coming Soon).
 
 |Day|Description|
 |:---|:---|
+|**29th Dec**|Announcement of Official Eternal Wallet Service Start Date! [Read more](https://www.atom-solutions.jp/en/news/news_211229.php)|
 |**11th Oct**|MoU signed with Singaporean FinTech startup Bholdus [Read more](https://www.atom-solutions.jp/en/news/news_211011.php)|
 |**03rd Sep**|Registration of Eternal Wallet is now started! And so to the Registration Campaign! [Read more](https://www.atom-solutions.jp/en/news/news_210903.php)|
 |**01st Jun**|TTT is now AVAILABLE on Cointiger Exchange! [Read more](https://www.cointiger.com/en-us/#/trade_center?coin=ttt_usdt)|
